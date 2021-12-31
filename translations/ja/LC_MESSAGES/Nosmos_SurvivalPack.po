@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2010-08-20 00:00+0900\n"
+"PO-Revision-Date: 2010-08-20 00:00+0900\n"
+"Last-Translator: itota\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "     "
+msgstr "Translated by itota"
+
+msgid "3p - Survival"
+msgstr "3p - サバイバル"
+
+msgid "3p - Survival Upgrade Mod"
+msgstr "3p - サバイバル　強化改"
+
+msgid "Victory"
+msgstr "勝利条件"
+
+msgid "Survive the waves and kill the enemy leaders"
+msgstr "最後まで生き残り、敵チームの全てのリーダーを倒す"
+
+msgid "The gates will open in turn 40."
+msgstr "40ターン目に南北を隔てる山が崩れます。"
+
+msgid "Defeat"
+msgstr "敗北条件"
+
+msgid "Death of your leader"
+msgstr "味方チームの全てのリーダーが倒される"
+
+msgid "Scenario Settings"
+msgstr "推奨設定"
+
+msgid "Default Era - 70% XP - 3 GPV - 100 gold - no fog - no turn limit"
+msgstr "デフォルトの時代 - 経験値 70% - 収入 3 - 所持金 100 - 霧無し - ターン制限無し"
+
+msgid "Turn 32,34,36 : Final Waves"
+msgstr "Turn 32,34,36 : 最後の試練"
+
+msgid "2vs2 - Survival"
+msgstr "2vs2 - サバイバル"
+
+msgid "2vs2 - Survival Upgrade Mod"
+msgstr "2vs2 - サバイバル　強化改"
+
+msgid "Kill the enemy leaders"
+msgstr "最後まで生き残り、敵チームの全てのリーダーを倒す"
+
+msgid "The team that survives longer wins.\n"
+"If both teams survive the waves they have to fight against each other.\n"
+"The red Guardians in the middle wont move and are enemies of both teams."
+msgstr "より長く生きながらえたチームの勝利です。\n"
+"最後まで生き残ると、チーム同士の戦いになります。\n"
+"中央の赤チームの守護者は動きません。また、両チームにとっての敵です。"
+
+msgid "Default Era - 50% XP - 2 GPV - 75 gold - no fog - no turn limit"
+msgstr "デフォルトの時代 - 経験値 50% - 収入 2 - 所持金 75 - 霧無し - ターン制限無し"
+
+msgid "Turn 26 : The Middle opens"
+msgstr "Turn 26 : 中央が開く"
+
+msgid "Turn 27 : removes some villages"
+msgstr "Turn 27 : 幾つかの村が消える"
+
+msgid "I want to know exactly what is going to spawn and where"
+msgstr "どの種類のユニットがどこに現れるかを正確に知りたい（英語）"
+
+msgid "I only want to know general information about what units will be spawning"
+msgstr "どのようなユニットが現れるかおおまかな情報だけを知りたい（英語）"
+
+msgid "Upgrade"
+msgstr "強化"
+
+msgid "Your units can buy upgrades, which increase units' MAX HP, DAMAGE and STRIKE, with EXP."
+msgstr "経験値(EXP)と引き換えにユニットの最大HP(MAX HP)、ダメージ(DAMAGE)、攻撃回数(STRIKE)を強化できます。"
+
+msgid "<span color='green'>Right click on the unit</span> that has earned enough EXP, and upgrade menu will appear.\n"
+"Note : Upgrading MAX HP doesnt heal the unit. It increases only the MAX HP."
+msgstr "必要な経験値を得た<span color='green'>ユニットを右クリック</span>すると、強化メニューが現れます。\n"
+"注意 : 最大HPを強化してもユニットは回復しません。増えるのは最大HPだけです。"
+
+msgid "  <span underline='low'>  UPGRADE  |   REGULAR UNIT    ,   LIFE DRAINER    </span>"
+msgstr "  <span underline='low'>　　強化　　｜　　　通常ユニット　　,　　生命吸収ユニット　</span>"
+
+msgid "<i>You can open this window anytime by pressing</i> <tt><span color='yellow'>[CTRL] + [J]</span></tt>"
+msgstr "<tt><span color='yellow'>[CTRL] + [J]</span></tt> <i>を押せばいつでもこのウインドウが開きます。</i>"
